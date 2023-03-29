@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Project: Tweet Classification
 
 Introduction
@@ -39,3 +40,6 @@ suffers from OOM errors. The file is hence not really meant to be run at once, b
 
 
 
+=======
+# ml-project-2-ml-gang
+>>>>>>> 5f12420 (init fork)
